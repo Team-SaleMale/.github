@@ -117,8 +117,15 @@
 
 ## 👥 Contributors
 
-| <img src="https://avatars.githubusercontent.com/u/165489156?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/80953694?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/95339052?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/201078502?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/186348397?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/186401325?v=4" width="100" height="100"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [정준영(팀장/BE)](https://github.com/nomorefifa) | [유완규(BE/Infra)](https://github.com/beans3142) | [이관형(BE)](https://github.com/e2guana) | [주동욱(FE/AI)](https://github.com/Judonguk) | [김예나(FE)](https://github.com/kimyena123) | [최수연(FE)](https://github.com/csy5271abcd) |
+## 👥 TEAM SALEMALE
+
+| 구분 | 이름 | 역할 | GitHub |
+|:---:|:---:|:---:|:---:|
+| **BE / Leader** | 정준영 | Backend | [nomorefifa](https://github.com/nomorefifa) |
+| **BE / Infra** | 유완규 | Backend / Infra | [beans3142](https://github.com/beans3142) |
+| **BE** | 이관형 | Backend | [e2guana](https://github.com/e2guana) |
+| **FE / AI** | 주동욱 | Frontend / AI | [Judonguk](https://github.com/Judonguk) |
+| **FE** | 김예나 | Frontend | [kimyena123](https://github.com/kimyena123) |
+| **FE** | 최수연 | Frontend | [csy5271abcd](https://github.com/csy5271abcd) |
 
 ---
