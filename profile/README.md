@@ -117,8 +117,6 @@
 
 ## 👥 Contributors
 
-## 👥 TEAM SALEMALE
-
 | 구분 | 이름 | 역할 | GitHub |
 |:---:|:---:|:---:|:---:|
 | **BE / Leader** | 정준영 | Backend | [nomorefifa](https://github.com/nomorefifa) |
